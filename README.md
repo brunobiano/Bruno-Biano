@@ -7,7 +7,7 @@
 ### <div align="center">Olá, me chamo Bruno, Freelancer Front-end e estou trabalhando em aprender e desenvolver em Back-end.<br/><br/> (eng) I'm Bruno, Front-end Freelancer and working on learning and develop on Back-end. </div>  
   
 
-- 💻 Estou atualmente trabalhando com a  [BioTechPar Landing Page](https://github.com/brunobiano/Landing-Page-BioTechPar)  
+- 💻 Trabalhei na produção do site da empresa BioTechPar  [BioTechPar Landing Page](https://www.biotechpar.com.br/)  
   
 
 - 📗 Estou aprendendo mais sobre Git atualmente.  
